@@ -1,0 +1,5 @@
+rospkg
+catkin-tools
+loguru
+pycryptodomex
+python-gnupg
